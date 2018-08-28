@@ -32,6 +32,8 @@
   list
   add Betsy Choo p/222222 e/benchoo@nus.edu.sg
   list
+  add Changrui Li p/86072095 e/leo@gmail.com
+  list
 
   # order of phone and email should not matter
   add Charlie Dickson e/charlie.d@nus.edu.sg p/333333
